@@ -8,10 +8,14 @@ tags:
   - 网络攻防
 ---
 
-
 访问地址
 http://X.X.X.X/directdata/direct/router
 请求头(requestHeader)
+
+```
+
+```
+
 Host: X.X.X.X
 User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15
 Content-Length: 155
@@ -28,3 +32,5 @@ Accept-Encoding: gzip
    "type": "rpc",
    "tid": 17
 }
+
+```
