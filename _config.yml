@@ -1,9 +1,9 @@
 # Site settings
-title: Hackeyes
+title: Hackeye
 SEOTitle: Hackeyes | Hackeye
 header-img: img/home-bg.jpg
 email: hackeyes@local
-description: "关于程序与设计、黑客与画家 | 互联网, Web"
+description: "网络安全,网络攻防 | 互联网, Web"
 url: "https://hackeyes.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
